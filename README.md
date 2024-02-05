@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThandieRmane
-- 👀 I’m interested in Business Intellegence and Data analysis
+- 👀 I’m interested in Business Intellegence, Data analysis and Financial analysis
 - 🌱 I’m currently learning Power BI, SQL and Python
 
 
